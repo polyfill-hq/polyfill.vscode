@@ -1,0 +1,45 @@
+{
+    "name": "polyfill-extension-pack",
+    "displayName": "Polyfill Extension Pack",
+    "version": "1.0.1",
+    "publisher": "polyfill",
+    "icon": "logo.png",
+    "author": {
+        "name": "Keivan Beigi"
+    },
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "homepage": "https://github.com/polyfill-hq/polyfill.vscode",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/polyfill-hq/polyfill.vscode"
+    },
+    "extensionPack": [
+        "dariofuzinato.vue-peek",
+        "dbaeumer.vscode-eslint",
+        "GitHub.copilot",
+        "github.vscode-github-actions",
+        "GitHub.vscode-pull-request-github",
+        "hashicorp.terraform",
+        "herrmannplatz.npm-dependency-links",
+        "irongeek.vscode-env",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.makefile-tools",
+        "ms-vsliveshare.vsliveshare",
+        "pflannery.vscode-versionlens",
+        "Prisma.prisma",
+        "rongeek.vscode-env",
+        "streetsidesoftware.code-spell-checker",
+        "styled-components.vscode-styled-components",
+        "stylelint.vscode-stylelint",
+        "usernamehw.errorlens",
+        "vue.volar",
+        "zignd.html-css-class-completion"
+    ]
+}
