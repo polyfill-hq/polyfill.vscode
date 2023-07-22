@@ -1,0 +1,9 @@
+{
+  "name": "polyfill.vscode",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "polyfill-extension-pack"
+  ]
+}
